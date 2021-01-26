@@ -56,3 +56,13 @@
     }
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .solutions {
+    .btn {
+      width: 50%;
+      color: white;
+      background-color: #dc3c45;
+    }
+  }
+}
